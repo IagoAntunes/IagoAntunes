@@ -14,6 +14,6 @@ Studen
 My name is ** Iago **, I am a student in Computer Science 2ºPeriod
 
 - :house: MG BRASIL
-- :adult: 18Anos
-- :memo: Fan de Astronomia🔭 e Games:video_game:
-- :computer: Estudando Front-End  
+- :adult: 18years
+- :memo: Astrony Fan🔭 and Games:video_game:
+- :computer: Studying Front-End  
