@@ -11,7 +11,7 @@ Studen
 
 #### Olá:wave:,
 
-My name is ** Iago **, I am a student in Computer Science 2ºPeriod
+My name is **Iago** , I am a student in Computer Science 2ºPeriod
 
 - :house: MG BRASIL
 - :adult: 18years
