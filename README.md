@@ -16,4 +16,10 @@ My name is ** Iago **, I am a student in Computer Science 2ºPeriod
 - :house: MG BRASIL
 - :adult: 18years
 - :memo: Astrony Fan🔭 and Games:video_game:
-- :computer: Studying Front-End  
+- :computer: Studying Front-End
+***
+
+## See my projects
+
+:rocket: [Plataforma de Estudos](https://github.com/IagoAntunes/Projetos-Pessoais/tree/master/Plataforma%20Estudos)
+:hospital: [App Covid-19](https://github.com/IagoAntunes/Projetos-Pessoais/tree/master/APP%20COVID-19)
