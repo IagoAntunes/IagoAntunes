@@ -2,7 +2,7 @@
 
 Student 
 
-![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)
+![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)(https://www.linkedin.com/in/unavailable/)
 ![iagoantunes.f@gmail.com](https://img.shields.io/badge/iagoantunes.f@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=iagoantunes.f@gmail.com)
 ***
 
