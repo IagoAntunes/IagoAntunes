@@ -17,7 +17,7 @@ My name is **Iago** , I am a student in Computer Science 2ºPeriod
 - :house: MG BRASIL
 - :adult: 18years
 - :memo: Astrony Fan🔭 and Games:video_game:
-- :computer: Studying Front-End
+- :computer: Studying Back-End
 
 ### Portfolio: https://iagoantunes.github.io/
 ***
