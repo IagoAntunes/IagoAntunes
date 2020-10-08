@@ -22,6 +22,13 @@ My name is **Iago** , I am a student in Computer Science 2ºPeriod
 ### Portfolio: https://iagoantunes.github.io/
 ***
 
+## I am Studyng
+ :orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)
+ 
+ :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning)
+ 
+ :blue_square: [Python](https://github.com/IagoAntunes/Python__learning)
+
 ## See my projects
 
 :rocket: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
