@@ -24,7 +24,7 @@ My name is **Iago** , I am a student in Computer Science 2ºPeriod
 
 ## I am Studyng
 
-:purple_circle: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
+:purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
 
 :black_large_square: [MySQL](breve)
 
