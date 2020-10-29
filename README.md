@@ -23,7 +23,12 @@ My name is **Iago** , I am a student in Computer Science 2ºPeriod
 ***
 
 ## I am Studyng
- :orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)
+
+:purple_circle: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
+
+:black_large_square: [MySQL](breve)
+
+:orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)
  
  :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning)
  
