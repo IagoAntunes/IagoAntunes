@@ -2,7 +2,7 @@
 
 Student 
 
-<a href="#" alt="Instagram">
+<a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Instagram">
 <img src="https://camo.githubusercontent.com/984eaccf99bab976d719e98bbbe5ea9602182afcfbdbc5a7e18529ecea3c5163/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4446303137343f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f69757269636f64696e672f" data-canonical-src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/iago_ferreira010/?hl=pt-br" style="max-width:100%;">
 
 </a>
@@ -13,7 +13,7 @@ Student
 
 #### Olá:wave:,
 
-My name is **Iago** , I am a student in Computer Science 2ºPeriod
+My name is **Iago** , I am a student in Computer Science 3ºPeriod
 
 - :house: MG BRASIL
 - :adult: 18years
