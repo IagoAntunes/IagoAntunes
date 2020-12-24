@@ -1,7 +1,7 @@
 # IAGO ANTUNES FERREIRA
 
 Student 
-    <img src="https://imgur.com/AjH5rOa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+    <img src=".png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
   <a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iago_ferreira010/?hl=pt-br"/></a>
