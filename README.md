@@ -20,7 +20,7 @@ My name is **Iago** , I am a student in Computer Science 3ºPeriod
 
 :black_large_square: [MySQL](https://github.com/IagoAntunes/MYSQL)
 
-:orange_square: [HTML-5/CSS](https://github.com/IagoAntunes/HTML-5__learning)
+:orange_square: [HTML-5 / CSS](https://github.com/IagoAntunes/HTML-5__learning)
  
  :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning)
  
