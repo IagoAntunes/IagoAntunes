@@ -1,13 +1,9 @@
 # IAGO ANTUNES FERREIRA
 
-Student 
 
+## Olá:wave:,
 
-
-
-#### Olá:wave:,
-
-My name is **Iago** , I am a student in Computer Science 3ºPeriod
+![](https://imgur.com/DPK9sFs.png)
 
 [![IagoAntunes GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoAntunes&show_icons=true&theme=tokyonight)](https://github.com/IagoAntunes/IagoAntunes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAntunes&layout=compact&theme=tokyonight)](https://github.com/IagoAntunes/IagoAntunes)
