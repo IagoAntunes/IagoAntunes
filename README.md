@@ -1,15 +1,6 @@
 # IAGO ANTUNES FERREIRA
 
 Student 
-    <img src="https://imgur.com/W2VZcfa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="menino_computador">
-  
-  <a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iago_ferreira010/?hl=pt-br"/></a>
-
-  <a href="https://www.linkedin.com/in/iagoaferreira/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagoaferreira/" /></a>
-
-
 
 
 
@@ -18,11 +9,8 @@ Student
 
 My name is **Iago** , I am a student in Computer Science 3ºPeriod
 
-- :house: MG BRASIL
-- :adult: 18years
-- :memo: Astrony Fan🔭 and Games:video_game:
-- :computer: Studying Back-End
-
+[![IagoAntunes GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoAntunes&show_icons=true&theme=tokyonight)](https://github.com/IagoAntunes/IagoAntunes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAntunes&layout=compact&theme=tokyonight)](https://github.com/IagoAntunes/IagoAntunes)
 ### Portfolio: https://iagoantunes.github.io/
 ***
 
