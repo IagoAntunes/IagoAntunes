@@ -1,8 +1,6 @@
 # IAGO ANTUNES FERREIRA
 
 
-## Olá:wave:,
-
 ![](https://imgur.com/DPK9sFs.png)
 
 
