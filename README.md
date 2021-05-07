@@ -5,6 +5,14 @@
 
 ![](https://imgur.com/DPK9sFs.png)
 
+Best skills
+
+   <img src="https://user-images.githubusercontent.com/63758301/117404758-e0a8d380-aee0-11eb-8f4c-771ec5b072b1.png" width = "50" align = "center">      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = "50" align = "center">          <img src="https://imgur.com/puhpH3X.png" width = "50" align = "center">
+
+
+
+
+
 
 [![IagoAntunes GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoAntunes&show_icons=true&theme=tokyonight)](https://github.com/IagoAntunes/IagoAntunes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAntunes&layout=compact&theme=tokyonight)](https://github.com/IagoAntunes/IagoAntunes)
@@ -35,3 +43,4 @@
 :wedding: [Procura de Orfanatos](https://github.com/IagoAntunes/Happy-NLW)(LOADING...)
 
 
+  
