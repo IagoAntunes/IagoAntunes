@@ -1,6 +1,9 @@
 <h1 align = center >Iago Antunes Ferreira</h1>
 
+
 <div align = center>
+    
+ <img src="https://imgur.com/W2VZcfa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="menino_computador">
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iagoaferreira/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iago_ferreira010/) 
@@ -8,23 +11,18 @@
     
 </div>
 
-
-<img src="https://imgur.com/W2VZcfa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="menino_computador">
   
-  
-  
-
-#### Olá:wave:,
+<h3 align = center> Hello:wave: </h3>
 
 <h4 align = center>
-Hello my name is iago I'm passionate about programming and my focus is initially to be a back-end programmer
+    <i>Hello my name is <b><i>Iago</i></b> I'm passionate about programming and my focus is initially to be a back-end programmer</i>
 </h4>
 
 <div align = center>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = '60'>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width = '60'>
 <img src="https://imgur.com/puhpH3X.png" width = '60'>
 <img src="https://imgur.com/nOkin5E.png" width = '60'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = '60'>
 </div>
 
 
