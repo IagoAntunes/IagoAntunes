@@ -31,7 +31,7 @@
 <br>
 
 <div align = center>
-<a href="https://iagoantunes.github.io/" target="_blank" align >
+<a href="https://iagoantunes.github.io/" target="_blank">
 Portfolio Online
 </a>
  
