@@ -1,18 +1,18 @@
 # IAGO ANTUNES FERREIRA
 
-Student 
-    <img src="https://imgur.com/W2VZcfa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="menino_computador">
+<div align = center>
+    
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iagoaferreira/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iago_ferreira010/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+    
+</div>
+
+
+<img src="https://imgur.com/W2VZcfa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="menino_computador">
   
-  <a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iago_ferreira010/?hl=pt-br"/></a>
-
-  <a href="https://www.linkedin.com/in/iagoaferreira/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagoaferreira/" /></a>
-
-
-
-
-
+  
+  
 
 #### Olá:wave:,
 
