@@ -16,15 +16,23 @@
 
 #### Olá:wave:,
 
-My name is **Iago** , I am a student in Computer Science 3ºPeriod
+<h4 align = center>
+Hello my name is iago I'm passionate about programming and my focus is initially to be a back-end programmer
+</h4>
 
-- :house: MG BRASIL
-- :adult: 18years
-- :memo: Astrony Fan🔭 and Games:video_game:
-- :computer: Studying Back-End
+<div align = center>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width = '60'>
+<img src="https://imgur.com/puhpH3X.png" width = '60'>
+<img src="https://imgur.com/nOkin5E.png" width = '60'>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = '60'>
+</div>
+
 
 ### Portfolio: https://iagoantunes.github.io/
 ***
+
+
+
 
 ## I am Studyng
 
