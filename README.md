@@ -46,7 +46,7 @@ Portfolio Online
 
 :purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
 
-:black_large_square: [MySQL](https://github.com/IagoAntunes/MYSQL)
+:black_large_square: [Banco de Dados](https://github.com/IagoAntunes/MYSQL)
 
 :orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)
  
