@@ -19,11 +19,11 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/iagoaferreira/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=flat-square&logo=Linkedin&logoColor=4ede52&link=https://www.linkedin.com/in/iagoaferreira" height="30"/></a>
+<a href="https://www.linkedin.com/in/iagoaferreira/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=4ede52&amp;link=https://www.linkedin.com/in/iuricode" style="max-width:100%;">
 
-  <a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=flat-square&labelColor=1C1C1C&logo=instagram&logoColor=4ede52&link=https://www.instagram.com/iago_ferreira010/?hl=pt-br" height="30" /></a>
+  <a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Linkedin">
+<img src= "https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&amp;logo=Instagram&amp;logoColor=4ede52&amp;link=https://www.instagram.com/iuricode" style="max-width:100%;">
 </p>  
 
 
