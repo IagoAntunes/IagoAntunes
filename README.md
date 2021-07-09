@@ -28,3 +28,33 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iago_ferreira010/?hl=pt-br"/></a>
 </p>  
+
+
+
+
+## I am Studyng
+
+:purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
+
+:black_large_square: [Banco de Dados](https://github.com/IagoAntunes/MYSQL)
+
+:orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)
+ 
+ :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning)
+ 
+ :blue_square: [Python](https://github.com/IagoAntunes/Python__learning)
+
+## See my projects
+
+:blue_book: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
+
+:hospital: [App Covid-19(Protótipo)](https://github.com/IagoAntunes/APP-COVID-19)
+
+:construction: [Controle de EPI'S](https://github.com/IagoAntunes/Projeto-AlfaID)
+
+:wedding: [Procura de Orfanatos](https://github.com/IagoAntunes/Happy-NLW)(LOADING...)
+
+
+
+
+
