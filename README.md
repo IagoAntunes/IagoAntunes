@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Iago sou um desenvolvedor <strong>back-end</strong>.<br>
+  🌎 Olá meu nome é Iago sou um desenvolvedor <strong>back-end</strong>.<br>
   Atualmente <strong>estudando</strong> com interessa na area de <strong>Banco de Dados</strong>.
 </p>
 
 <p align="left">
-    🦄 Linguagens: <strong>C# , SQL , PYTHON</strong>
+   🦄 Linguagens: <strong>C# , SQL , PYTHON</strong>
 </p>
 
 <p align="left">
