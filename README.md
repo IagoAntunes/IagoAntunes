@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-   🦄 Linguagens: <strong>C# , SQL , PYTHON</strong>
+  💻 Linguagens: <strong>C# , SQL , PYTHON</strong>
 </p>
 
 <p align="left">
