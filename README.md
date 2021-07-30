@@ -44,6 +44,8 @@
 ## See my projects
 
 :blue_book: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
+  
+:robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)
 
 :hospital: [App Covid-19(Protótipo)](https://github.com/IagoAntunes/APP-COVID-19)
 
