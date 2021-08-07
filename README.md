@@ -47,6 +47,8 @@
   
 :chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Cota%C3%A7%C3%A3o%20Dolar)
   
+:green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Cota%C3%A7%C3%A3o%20Dolar)
+  
 :robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)
 
 :hospital: [App Covid-19(Protótipo)](https://github.com/IagoAntunes/APP-COVID-19)
