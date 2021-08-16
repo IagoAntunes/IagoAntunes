@@ -24,7 +24,7 @@
 
   <a href="https://www.instagram.com/iago_ferreira010/?hl=pt-br" alt="Linkedin">
 <img src= "https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&amp;logo=Instagram&amp;logoColor=009c86&amp;link=https://www.instagram.com/iuricode" style="max-width:100%;">
-</p>  
+    </p>  </a>
 
 
 
