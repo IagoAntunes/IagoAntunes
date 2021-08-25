@@ -52,6 +52,8 @@
 :robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)
 
 :video_game: [LoginLOL](https://github.com/IagoAntunes/LoginLOL)
+  
+:alarm_clock: [Pomodoro](https://github.com/IagoAntunes/Pomodoro)
 
 :construction: [Controle de EPI'S](https://github.com/IagoAntunes/Projeto-AlfaID)
 
