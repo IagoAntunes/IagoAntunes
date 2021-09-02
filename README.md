@@ -45,9 +45,7 @@
 
 :blue_book: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
   
-:blue_book: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)
-  
-:chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Cota%C3%A7%C3%A3o%20Dolar)
+:chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)
   
 :green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Cota%C3%A7%C3%A3o%20Dolar)
   
