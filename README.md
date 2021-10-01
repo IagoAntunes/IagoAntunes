@@ -29,7 +29,7 @@
 
 
 
-## I am Studyng
+## I am Studying
 
 :purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
 
