@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>C# , SQLServer , PYTHON</strong>
+  💻 Habilidades: <strong>C# .NET , ASP.NET , SQLSERVER , PYTHON</strong>
 </p>
 
 <p align="left">
