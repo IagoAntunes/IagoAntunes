@@ -48,7 +48,7 @@
   
 :chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)
   
-:chart_with_upwards_trend: [LifeAt](https://github.com/IagoAntunes/LifeAt)
+:mountain_snow: [LifeAt](https://github.com/IagoAntunes/LifeAt)
   
 :green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Cota%C3%A7%C3%A3o%20Dolar)
   
