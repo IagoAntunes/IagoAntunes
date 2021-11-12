@@ -42,7 +42,7 @@
  
  :blue_square: [Python](https://github.com/IagoAntunes/Python__learning)
 
-## See my projects
+## See my projects.
 
 :blue_book: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
   
