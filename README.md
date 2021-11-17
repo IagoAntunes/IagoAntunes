@@ -1,4 +1,4 @@
-<img src="https://imgur.com/iP15KIv.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ImagemComputador">
+<img src="https://imgur.com/iP15KIv.png" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
 
 <p align="left"> 
   🌎 Olá meu nome é Iago sou um desenvolvedor <strong>back-end</strong>.<br>
