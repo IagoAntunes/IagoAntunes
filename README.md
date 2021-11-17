@@ -32,15 +32,7 @@
 
 ## I am Studying
 
-:purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning)
-
-:black_large_square: [Banco de Dados](https://github.com/IagoAntunes/MYSQL)
-
-:orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)
- 
- :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning)
- 
- :blue_square: [Python](https://github.com/IagoAntunes/Python__learning)
+:purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning) || :black_large_square: [Banco de Dados](https://github.com/IagoAntunes/MYSQL)|| :orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning)||  :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning) || :blue_square: [Python](https://github.com/IagoAntunes/Python__learning)
 
 ## See my projects.
 
