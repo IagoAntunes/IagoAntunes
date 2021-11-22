@@ -2,7 +2,7 @@
 
 <p align="left"> 
   🌎 Olá meu nome é Iago sou um desenvolvedor <strong>back-end</strong>.<br>
-  Atualmente <strong>estudando</strong> com interessa em ser um <strong>Desenvolvedor .NET</strong>.
+  Atualmente <strong>estudando</strong> com interesse em ser um <strong>Desenvolvedor .NET</strong>.
 </p>
 
 <p align="left">
