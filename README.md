@@ -33,7 +33,10 @@
 ## I am Studying
 
 :purple_square: [C#](https://github.com/IagoAntunes/C-sharp-_Learning) || :black_large_square: [Banco de Dados](https://github.com/IagoAntunes/MYSQL) || :orange_square: [HTML-5](https://github.com/IagoAntunes/HTML-5__learning) ||  :yellow_square: [JavaScript](https://github.com/IagoAntunes/Java-Script__learning) || :blue_square: [Python](https://github.com/IagoAntunes/Python__learning)
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoAntunes&show_icons=true&theme=tokyonight)
+![teste](https://github-readme-stats.vercel.app/api/top-langs?username=IagoAntunes&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+  
 ## See my projects.
 
 :blue_book: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
