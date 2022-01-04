@@ -38,25 +38,17 @@
   
 ## See my projects.
 
-:blue_book: [Plataforma de Estudos Online](https://github.com/IagoAntunes/NLW-2)
   
-:chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)
   
-:mountain_snow: [LifeAt](https://github.com/IagoAntunes/LifeAt)
+|   📱 Mobile   |  🌎 Web  |    🖥️ Desktop   |
+| :---:         |     :---:      |          :---: |
+| :stethoscope: [Fisiotherapp](https://github.com/IagoAntunes/Fisiotherapp)         | :man_health_worker: [Plataforma de Estudos Online](https://github.com/IagoAntunes/Fisiotherapp) | :chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)         |
+| ...         | ...        | :mountain_snow: [LifeAt](https://github.com/IagoAntunes/LifeAt)         |
+| ...         | ...         | :green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Inserindo%20valores%20Excel)         |
+| ...         | ...         | :robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)         |
+| ...         | ...        | :video_game: [LoginLOL](https://github.com/IagoAntunes/LoginLOL)         |
+| ...         | ...         | :alarm_clock: [Pomodoro](https://github.com/IagoAntunes/Pomodoro)        |
+| ...         | ...         | ...         |
+| ...         | ...         | ...         |
+| ...         | ..         | ...         |
   
-:green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Inserindo%20valores%20Excel)
-  
-:robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)
-
-:video_game: [LoginLOL](https://github.com/IagoAntunes/LoginLOL)
-  
-:alarm_clock: [Pomodoro](https://github.com/IagoAntunes/Pomodoro)
-
-:construction: [Controle de EPI'S](https://github.com/IagoAntunes/Projeto-AlfaID)
-
-:wedding: [Procura de Orfanatos](https://github.com/IagoAntunes/Happy-NLW)(LOADING..)
-
-
-
-
-
