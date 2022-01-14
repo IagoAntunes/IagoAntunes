@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>C# .NET , ASP.NET , SQLSERVER , XAMARIN FORMS</strong>
+  💻 Habilidades: <strong>C# .NET , ASP.NET , SQLSERVER , XAMARIN</strong>
 </p>
 
 <p align="left">
