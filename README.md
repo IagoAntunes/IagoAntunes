@@ -1,7 +1,7 @@
 <img src="https://imgur.com/iP15KIv.png" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
 
 <p align="left"> 
-  🌎 Olá meu nome é Iago sou desenvolvedor <strong>back-end</strong>.<br>
+  🌎 Olá meu nome é Iago sou desenvolvedor <strong>back-end</strong><br>
   Atualmente <strong>estudando</strong> com interesse em ser um <strong>Desenvolvedor .NET</strong>.
 </p>
 
