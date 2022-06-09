@@ -43,7 +43,7 @@
 |   📱 Mobile   |  🌎 Web  |    🖥️ Desktop   |
 | :---:         |     :---:      |          :---: |
 | :stethoscope: [Fisiotherapp](https://github.com/IagoAntunes/Fisiotherapp)         | :man_health_worker: [Plataforma de Estudos Online](https://github.com/IagoAntunes/Fisiotherapp) | :chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)         |
-| :love_letter: [CorreioElegante](https://github.com/IagoAntunes/CorreioElegante)        | ...        | :mountain_snow: [LifeAt](https://github.com/IagoAntunes/LifeAt)         |
+| :love_letter: [CorreioElegante](https://github.com/IagoAntunes/CorreioElegante)        | 📘 [BookStore](https://github.com/IagoAntunes/BookStore)        | :mountain_snow: [LifeAt](https://github.com/IagoAntunes/LifeAt)         |
 | :large_blue_circle: [LoginFacebook](https://github.com/IagoAntunes/LoginFacebook)         | ...         | :green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Inserindo%20valores%20Excel)         |
 | :christmas_tree: [LojaNatal](https://github.com/IagoAntunes/LojaNatal)        | ...         | :robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)         |
 |  👕 [FashionShop](https://github.com/IagoAntunes/FashionShop)       | ...        | :video_game: [LoginLOL](https://github.com/IagoAntunes/LoginLOL)         |
