@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git , VStudio</strong>
+  💼 Tools: <strong>Git , Team Foundation Server</strong>
 </p>
 
 <p align="left">
