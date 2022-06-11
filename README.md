@@ -1,20 +1,19 @@
 <img src="https://imgur.com/iP15KIv.png" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
 
 <p align="left"> 
-  🌎 Olá meu nome é Iago sou desenvolvedor <strong>back-end</strong><br>
-  Atualmente <strong>estudando</strong> com interesse em ser um <strong>Desenvolvedor .NET</strong>.
+  🌎 Hello my name is Iago, I'm a <strong>.NET developer</strong>, currently working with Mobile Development with <strong>Xamarin Forms</strong>
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>C# .NET , ASP.NET , SQLSERVER , XAMARIN</strong>
+  💻 Skills: <strong>C# .NET , ASP.NET , SQLSERVER , XAMARIN</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git , VStudio</strong>
+  💼 Tools: <strong>Git , VStudio</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. ⤵️
+  💌 If you want to chat with me, don't hesitate to send me a message.. ⤵️
 </p>
 
 <p align="left">
