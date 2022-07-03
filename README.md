@@ -46,13 +46,13 @@
   
 |   📱 Mobile   |  🌎 Web  |    🖥️ Desktop   |
 | :---:         |     :---:      |          :---: |
-| :stethoscope: [Fisiotherapp](https://github.com/IagoAntunes/Fisiotherapp)         | :man_health_worker: [Plataforma de Estudos Online](hhttps://github.com/IagoAntunes/DevSchool-NLW) | :chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)         |
+| :stethoscope: [Fisiotherapp](https://github.com/IagoAntunes/Fisiotherapp)         | :man_health_worker: [Portfolio](https://github.com/IagoAntunes/PortfolioIago)  | :chart_with_upwards_trend: [Cotação Dolar](https://github.com/IagoAntunes/CotacaoDolar)         |
 | :love_letter: [CorreioElegante](https://github.com/IagoAntunes/CorreioElegante)        | 📘 [BookStore](https://github.com/IagoAntunes/BookStore)        | :mountain_snow: [LifeAt](https://github.com/IagoAntunes/LifeAt)         |
-| :large_blue_circle: [LoginFacebook](https://github.com/IagoAntunes/LoginFacebook)         | ...         | :green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Inserindo%20valores%20Excel)         |
+| :large_blue_circle: [LoginFacebook](https://github.com/IagoAntunes/LoginFacebook)         | :man_health_worker: [Online Studies Platform](https://github.com/IagoAntunes/DevSchool-NLW)         | :green_book: [Exportando conteudo para o Excel](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Inserindo%20valores%20Excel)         |
 | :christmas_tree: [LojaNatal](https://github.com/IagoAntunes/LojaNatal)        | ...         | :robot: [Bot Telegram](https://github.com/IagoAntunes/C-sharp-_Learning/tree/main/Projetos/Bot%20Telegram)         |
 |  👕 [FashionShop](https://github.com/IagoAntunes/FashionShop)       | ...        | :video_game: [LoginLOL](https://github.com/IagoAntunes/LoginLOL)         |
 | :magnet: [Pokedex](https://github.com/IagoAntunes/Pokedex)        | ...         | :alarm_clock: [Pomodoro](https://github.com/IagoAntunes/Pomodoro)        |
-| ...)         | ...         | ...         |
+| ...         | ...         | ...         |
 | ...         | ...         | ...         |
 | ...         | ..         | ...         |
  
