@@ -5,7 +5,7 @@
 <img src="https://imgur.com/iP15KIv.png" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
 
 <p align="left"> 
-  🌎 Hello my name is Iago, I'm a <strong>.NET developer</strong>, currently working with Mobile Development with <strong>Xamarin Forms</strong>
+  🌎 Hello my name is Iago, I'm a <strong>Mobile developer</strong>, currently working with Mobile Development with <strong>Xamarin Forms</strong>
 </p>
 
 <h3 align="left">Languages</h3>
