@@ -23,10 +23,6 @@
 </p>
 
 <p align="left">
-  💌 If you want to chat with me, don't hesitate to send me a message.. ⤵️
-</p>
-
-<p align="left">
 
 <a href="https://www.linkedin.com/in/iagoaferreira/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=009c86&amp;link=https://www.linkedin.com/in/iuricode" style="max-width:100%;">
