@@ -5,7 +5,7 @@
 <img src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
 
 <p align="left"> 
-  🌎 Hello my name is Iago, I'm a <strong>.NET / Mobile developer</strong>, currently working with Xamarin Forms , and I'm studying <strong>React Native</strong>
+  🌎 Hello my name is Iago, I'm a <strong>.NET / Mobile developer</strong>, currently working with <strong>Flutter</strong>
 </p>
 
 <h3 align="left">Languages</h3>
