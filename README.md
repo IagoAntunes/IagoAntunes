@@ -2,7 +2,7 @@
 <h3 align="center">.NET Developer, from Brazil.</h3>
 
 
-<img src="https://www.kdmeusite.com.br/wp-content/uploads/2019/09/mobileappdevelopement-405x405.gif" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
+<img src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif" min-width="400px" max-width="400px" width="380px" align="right" alt="ImagemComputador">
 
 <p align="left"> 
   🌎 Hello my name is Iago, I'm a <strong>.NET / Mobile developer</strong>, currently working with Xamarin Forms , and I'm studying <strong>React Native</strong>
