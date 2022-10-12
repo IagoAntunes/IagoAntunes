@@ -34,11 +34,6 @@
   
 ![](https://komarev.com/ghpvc/?username=IagoAntunes)
 
-
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoAntunes&show_icons=true&theme=tokyonight)![teste](https://github-readme-stats.vercel.app/api/top-langs?username=IagoAntunes&show_icons=true&theme=tokyonight&locale=en&layout=compact)
   
 ## See my projects.
 
