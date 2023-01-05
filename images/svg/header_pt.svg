@@ -199,8 +199,8 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+<text x="64" font-family="Helvetica" font-size=".16em" fill="white"
+     text-anchor="end" alignment-baseline="central " font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Desenvolvedor Mobile - Desenvolvedor Flutter
   </textPath>
