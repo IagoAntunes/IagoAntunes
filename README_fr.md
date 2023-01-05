@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Actuellement je recherche sur l'architecture logicielle, capteurs inertiels et la fusion de capteurs.\
 
 <p align="center">
-  <a href="mailto:iagoantunes.f@gmail.com?subject=Olá%20Iago%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:iagoantunes.f@gmail.com?subject=Olá%20Iago%20Antunes"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/IagoAntunes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
