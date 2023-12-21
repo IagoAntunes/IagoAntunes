@@ -2,16 +2,15 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working with Mobile Development Flutter \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Interested in android development.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching state management, clean architecture.\
+:technologist: Currently working with Mobile Development Flutter \
+:seedling: Interested in android development.\
+:heartbeat: Passionate with problem solving and daily routines automation.\
+:writing_hand: Currently researching state management, clean architecture.\
 
 <p align="center">
   <a href="mailto:iagoantunes.f@gmail.com?subject=Olá%20Iago%20Antunes"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +35,28 @@
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
 
 </p>
+
+### Projetos:
+Na visão geral abaixo você encontrará alguns projetos desenvolvidos por mim:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/tcc_app/blob/main/assets/app/icon_app.png"/>](https://www.uzzipay.com/)
+**AstroEduca - Aprendizado de Astronomia** \
+[**AstroEduca - Play Store**](https://play.google.com/store/apps/details?id=com.astro.astroeduca) \
+Competências: `Flutter`, `Firebase`, `Mobx`, 
+<br/> `Clean Architecture`, `Hive`, `GetIt`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/SupermarketList/blob/main/assets/app/icon/icon_app.png"/>](https://www.uzzipay.com/)
+**CartCheck - Controle de lista de supermercado** \
+[**CartCheck - Play Store**](EM BREVE) \
+Competências: `Flutter`, `Firebase`, `Bloc`, 
+<br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/ChatGeminiFlutter/blob/main/assets/github/xhdpi.png"/>](https://www.uzzipay.com/)
+**Gemini Chat - ChatBot feito com Flutter** \
+[**GeminiChat - Repositório**](https://github.com/IagoAntunes/ChatGeminiFlutter) \
+Competências: `Flutter`, `Firebase`, `ChangeNotifier`, 
+<br/> `Clean Architecture`, `Provider`, `GetIt`
+
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
