@@ -47,7 +47,7 @@ Competências: `Flutter`, `Firebase`, `Mobx`,
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/SupermarketList/blob/main/assets/app/icon/icon_app.png"/>](https://www.uzzipay.com/)
 **CartCheck - Controle de lista de supermercado** \
-[**CartCheck - Play Store**](EM BREVE) \
+[**CartCheck - Play Store**](https://play.google.com/store/apps/details?id=com.supermarket.cartcheck) \
 Competências: `Flutter`, `Firebase`, `Bloc`, 
 <br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
 
