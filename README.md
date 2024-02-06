@@ -39,19 +39,19 @@
 ### Projetos:
 Na visão geral abaixo você encontrará alguns projetos desenvolvidos por mim:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/tcc_app/blob/main/assets/app/icon_app.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/astroeduca/icon_app.png"/>](https://www.uzzipay.com/)
 **AstroEduca - Aprendizado de Astronomia** \
 [**AstroEduca - Play Store**](https://play.google.com/store/apps/details?id=com.astro.astroeduca) \
 Competências: `Flutter`, `Firebase`, `Mobx`, 
 <br/> `Clean Architecture`, `Hive`, `GetIt`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/SupermarketList/blob/main/assets/app/icon/icon_app.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/cartCheck/icon_app%20(1).png"/>](https://www.uzzipay.com/)
 **CartCheck - Controle de lista de supermercado** \
 [**CartCheck - Play Store**](https://play.google.com/store/apps/details?id=com.supermarket.cartcheck) \
 Competências: `Flutter`, `Firebase`, `Bloc`, 
 <br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/ChatGeminiFlutter/blob/main/assets/github/xhdpi.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/geminiChat/xhdpi.png"/>](https://www.uzzipay.com/)
 **Gemini Chat - ChatBot feito com Flutter** \
 [**GeminiChat - Repositório**](https://github.com/IagoAntunes/ChatGeminiFlutter) \
 Competências: `Flutter`, `Firebase`, `ChangeNotifier`, 
