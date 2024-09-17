@@ -39,17 +39,23 @@
 ### Projetos:
 Na visão geral abaixo você encontrará alguns projetos desenvolvidos por mim:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/astroeduca/icon_app.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/astroeduca/icon_app.png"/>](https://github.com/IagoAntunes/AstroEduca)
 **AstroEduca - Aprendizado de Astronomia** \
 [**AstroEduca - Play Store**](https://play.google.com/store/apps/details?id=com.astro.astroeduca) \
 Competências: `Flutter`, `Firebase`, `Mobx`, 
 <br/> `Clean Architecture`, `Hive`, `GetIt`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/cartCheck/icon_app%20(1).png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/cartCheck/icon_app%20(1).png"/>](https://github.com/IagoAntunes/CartCheck)
 **CartCheck - Controle de lista de supermercado** \
 [**CartCheck - Play Store**](https://play.google.com/store/apps/details?id=com.supermarket.cartcheck) \
 Competências: `Flutter`, `Firebase`, `Bloc`, 
 <br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3"/>](https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3)
+**GamePlay - Conecte-se e organize partidas com outros jogadores** \
+[**GamePlay - Github**](https://github.com/IagoAntunes/GamePlay) \
+Competências: `Flutter`, `SpringBoot`, 
+`Clean Architecture`, `Bloc`, `dio`,`get_it`,`flutter_secure_storage`,
 
 
 <details>
