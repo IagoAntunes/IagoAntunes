@@ -51,12 +51,6 @@ Competências: `Flutter`, `Firebase`, `Mobx`,
 Competências: `Flutter`, `Firebase`, `Bloc`, 
 <br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/geminiChat/xhdpi.png"/>](https://www.uzzipay.com/)
-**Gemini Chat - ChatBot feito com Flutter** \
-[**GeminiChat - Repositório**](https://github.com/IagoAntunes/ChatGeminiFlutter) \
-Competências: `Flutter`, `Firebase`, `ChangeNotifier`, 
-<br/> `Clean Architecture`, `Provider`, `GetIt`
-
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
