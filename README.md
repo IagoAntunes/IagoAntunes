@@ -51,7 +51,7 @@ Competências: `Flutter`, `Firebase`, `Mobx`,
 Competências: `Flutter`, `Firebase`, `Bloc`, 
 <br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3"/>](https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3"/>](https://github.com/IagoAntunes/GamePlay)
 **GamePlay - Conecte-se e organize partidas com outros jogadores** \
 [**GamePlay - Github**](https://github.com/IagoAntunes/GamePlay) \
 Competências: `Flutter`, `SpringBoot`, 
