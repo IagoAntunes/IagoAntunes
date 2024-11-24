@@ -12,6 +12,10 @@
 :heartbeat: Passionate with problem solving and daily routines automation.\
 :writing_hand: Currently researching state management, clean architecture.\
 
+<a href="https://www.credly.com/badges/ae3986b7-03d7-4c8b-b1b8-63adeb89b41c/public_url" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cec8054d-896b-4226-bc0f-f1579e2ccf84" alt="meta-android-developer-certificate" width="150">
+</a>
+
 <p align="center">
   <a href="mailto:iagoantunes.f@gmail.com?subject=Olá%20Iago%20Antunes"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/iagoaferreira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
