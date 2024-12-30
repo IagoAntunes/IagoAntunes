@@ -43,24 +43,68 @@
 ### Projetos:
 Na visão geral abaixo você encontrará alguns projetos desenvolvidos por mim:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/astroeduca/icon_app.png"/>](https://github.com/IagoAntunes/AstroEduca)
-**AstroEduca - Aprendizado de Astronomia** \
-[**AstroEduca - Play Store**](https://play.google.com/store/apps/details?id=com.astro.astroeduca) \
-Competências: `Flutter`, `Firebase`, `Mobx`, 
-<br/> `Clean Architecture`, `Hive`, `GetIt`
+<table style="width: 100%; text-align: center;">
+  <tr>
+   <td align="center">
+      <a href="https://github.com/IagoAntunes/AstroEduca">
+        <img src="https://github.com/IagoAntunes/myAssets/blob/main/astroeduca/icon_app.png" alt="AstroEduca" width="80" height="80">
+        <p>AstroEduca</p>
+      </a>
+       <p><small>Flutter, Firebase</small></p>
+    </td>
+   <td align="center">
+      <a href="https://github.com/IagoAntunes/CartCheck">
+        <img src="https://github.com/IagoAntunes/myAssets/blob/main/cartCheck/icon_app%20(1).png" alt="CartCheck" width="80" height="80">
+        <p>CartCheck</p>
+      </a>
+        <p><small>Flutter, Bloc</small></p>
+    </td>
+   <td align="center">
+      <a href="https://github.com/IagoAntunes/GamePlay">
+        <img src="https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3" alt="GamePlay" width="80" height="80">
+        <p>GamePlay</p>
+      </a>
+        <p><small>Flutter, SpringBoot</small></p>
+    </td>
+   <td align="center">
+  <a href="https://github.com/IagoAntunes/GuessingGame">
+    <img 
+      src="https://github.com/user-attachments/assets/d97859a9-5d21-429f-808f-09b5e25f6ba4" 
+      alt="GuessingGame" 
+      width="80" 
+      height="80"
+    />
+    <p>GuessingGame</p>
+  </a>
+  <p><small>Android, JetpackCompose</small></p>
+</td>
+   <td align="center">
+  <a href="https://github.com/IagoAntunes/RemindApp">
+    <img 
+      src="https://github.com/user-attachments/assets/400d2fc0-5c09-4663-abcb-9ec99ca464ff" 
+      alt="RemindApp" 
+      width="80" 
+      height="80"
+    />
+    <p>RemindApp</p>
+  </a>
+  <p><small>Android, JetpackCompose</small></p>
+</td>
+   <td align="center">
+  <a href="https://github.com/IagoAntunes/RemindApp">
+    <img 
+      src="https://github.com/user-attachments/assets/a55b07b7-ec82-474e-a2bd-7ece738d3745" 
+      alt="NumberSort" 
+      width="80" 
+      height="80"
+    />
+    <p>NumberSort</p>
+  </a>
+  <p><small>Android, JetpackCompose</small></p>
+</td>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/IagoAntunes/myAssets/blob/main/cartCheck/icon_app%20(1).png"/>](https://github.com/IagoAntunes/CartCheck)
-**CartCheck - Controle de lista de supermercado** \
-[**CartCheck - Play Store**](https://play.google.com/store/apps/details?id=com.supermarket.cartcheck) \
-Competências: `Flutter`, `Firebase`, `Bloc`, 
-<br/> `Clean Architecture`, `Hive`, `Flutter Modular`,<br/>`Internacionalization`,`Material 3`,
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/d1f85512-4315-4d0a-804d-8f1c078950b3"/>](https://github.com/IagoAntunes/GamePlay)
-**GamePlay - Conecte-se e organize partidas com outros jogadores** \
-[**GamePlay - Github**](https://github.com/IagoAntunes/GamePlay) \
-Competências: `Flutter`, `SpringBoot`, 
-`Clean Architecture`, `Bloc`, `dio`,`get_it`,`flutter_secure_storage`,
-
+</table>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
